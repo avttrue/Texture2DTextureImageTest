@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>powerup.obj</file>
+        <file>powerup.png</file>
+    </qresource>
+</RCC>
